@@ -1,7 +1,7 @@
 
 # ♻ Node.js data consumption project (microservice pattern)
 
-ini adalah proyek demo yang mengilustrasikan arsitektur microservice sederhana menggunakan Node.js. Terdapat satu layanan utama (API Gateway) yang bertugas mengonsumsi data dari dua layanan independen (`Order Service` dan `User Service`) dan menggabungkannya menjadi satu respons tunggal.
+ini adalah proyek demo yang mengilustrasikan arsitektur microservice sederhana menggunakan Node.js. Terdapat satu layanan utama (API Gateway) yang bertugas mengonsumsi data dari dua layanan independen (`Order Service` dan `User Service`) dan menggabungkannya menjadi satu respons tunggal..
 
 
 ## 🔴Arsitektur Proyek
